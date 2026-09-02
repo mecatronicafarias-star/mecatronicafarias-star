@@ -1,11 +1,11 @@
 # :wave: Olá, eu sou Alex Aparecido de Farias
-💻 **Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS |
+💻 **Estudante de Desenvolvimento de Sistemas | Focado em Python, C++, Java
 Preparando-se para o mercado de tecnologia**
 ---
 ## ✈️ Sobre mim
 - 🏫 Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
-- Sempre aprendendo novas tecnologias e boas práticas de programação
-- Interesse especial em **projetos web** e **desenvolvimento front-end**
+- 📖 Sempre aprendendo novas tecnologias e boas práticas de programação
+- 📓 Interesse especial em **desenvolvimento de sistema** e **manutenção de computador**
 ---
 ## Tecnologias que estudo
 <div style="display: inline_block"><br>
